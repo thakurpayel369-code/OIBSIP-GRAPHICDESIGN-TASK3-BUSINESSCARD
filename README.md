@@ -28,7 +28,8 @@ Typography: Clean, high-legibility serif and geometric sans-serif fonts used acr
 🧑‍💻 Author
 designed by payel
 <img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/ec20610f-66e0-4ee1-87b3-c561c138e2a3" />
-<img width="1920" height="1080" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/8e72f6aa-8fa1-41b3-b56a-cdc2b08ba320" />
+<img width="1535" height="817" alt="Screenshot 2026-10-15 221235" src="https://github.com/user-attachments/assets/4505c58b-ee88-4af5-b978-80bea051bbfe" />
+
 
 
 
