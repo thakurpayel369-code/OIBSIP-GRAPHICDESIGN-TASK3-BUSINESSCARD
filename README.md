@@ -27,3 +27,9 @@ Soft Cream / Light Mint (#EAEFE9 approx.)
 Typography: Clean, high-legibility serif and geometric sans-serif fonts used across all branding titles and body copy.  
 🧑‍💻 Author
 designed by payel
+<img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/ec20610f-66e0-4ee1-87b3-c561c138e2a3" />
+<img width="1920" height="1080" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/8e72f6aa-8fa1-41b3-b56a-cdc2b08ba320" />
+
+
+
+
